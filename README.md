@@ -13,7 +13,7 @@ Este projeto cria um NFT de Pokémon com Blockchain.
 Neste desafio vamos utilizar o Solidity para desenvolver o nosso token NFT no padrão ERC-721, simulando um jogo de batalhas entre Pokemons.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/DAO_Organiza-oAut-nomaDescentralizada/main/FullStack.jpg" alt="Criando uma DAO - Organização Autônoma Descentralizada nos Padrões Web3">
+  <img src="https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/FullStack.jpg" alt="Criando um NFT de Pokémon com Blockchain">
 </p>
 
 
