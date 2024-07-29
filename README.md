@@ -33,7 +33,7 @@ Neste projeto foi utilizado, as seguintes ferramentas:
 As imagens utilizadas e aplicadas durante a interação do contrato.
 - Bulbasaur : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Bulbasaur.png
 - Charmander : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Charmander.png
-- Eevee : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Eevee.png
+- Eevee : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Eevee.jpg
 - Pikachu : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Pikachu.png
 - Squirtle : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Squirtle.png
 
