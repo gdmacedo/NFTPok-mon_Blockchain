@@ -3,7 +3,7 @@
 ### Data.: 29 de julho de 2024.
 
 ### Orientador:
-Ricardo Zago - Avalon Blockchain Consulting
+Cassiano Ricardo de Oliveira Peres - Instrutor, DIO
 <p align="center">
   <img src="https://raw.githubusercontent.com/gdmacedo/Glener-Talk/main/developer-MacedoGDiniz.jpg" alt="Macedo, Glener Diniz">
 </p>
@@ -29,6 +29,13 @@ Neste projeto foi utilizado, as seguintes ferramentas:
   <img src="https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/ContratoCriado.jpg" alt="Ganache">
 </p>
 
+### Imagens Pokemons
+As imagens utilizadas e aplicadas durante a interação do contrato.
+- Bulbasaur : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Bulbasaur.png
+- Charmander : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Charmander.png
+- Eevee : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Eevee.png
+- Pikachu : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Pikachu.png
+- Squirtle : https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/Squirtle.png
 
 ### Contribuição
 Neste Lab você aprenderá, terá uma visão de como desenvolver a sua própria NFT, utlizando as ferramentas necessárias.
