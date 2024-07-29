@@ -26,7 +26,7 @@ Neste projeto foi utilizado, as seguintes ferramentas:
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gdmacedo/DAO_Organiza-oAut-nomaDescentralizada/main/DAO_Map.jpg" alt="DAO - Ops">
+  <img src="https://raw.githubusercontent.com/gdmacedo/NFTPok-mon_Blockchain/main/ContratoCriado.jpg" alt="Ganache">
 </p>
 
 
